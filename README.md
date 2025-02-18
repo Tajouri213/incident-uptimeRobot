@@ -60,14 +60,7 @@ You can expose your port for outside and to generate a `https` url using `ngrok`
 ngrok http 5000
 ```
 
-### Using Docker:
-#### 1. Build and run the container:
-```sh
-docker build -t incident-webhook .
-docker run -p 5000:5000 --env-file .env incident-webhook
-```
-
-#### 2. Using Docker Compose:
+### Using docker-compose:
 ```sh
 docker-compose up -d
 ```

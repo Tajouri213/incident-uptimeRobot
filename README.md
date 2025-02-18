@@ -1,7 +1,7 @@
 # Incident Webhook Uptime Receiver
 
 ## Overview
-This is a Flask-based webhook receiver that integrates with GitLab and Microsoft Graph API to create and manage incidents based on UptimeRobot alerts.
+This is a Flask-based webhook receiver that integrates with GitLab and Microsoft Graph API to create and manage incidents based on [UptimeRobot](https://uptimerobot.com/) alerts.
 
 ## Features
 - Receives webhook alerts from UptimeRobot.

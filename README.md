@@ -18,8 +18,8 @@ This is a Flask-based webhook receiver that integrates with GitLab and Microsoft
 
 ### 1. Clone the repository:
 ```sh
-git clone https://gitlab.mediacockpit.dev/infra/webhookincident.git
-cd webhookincident
+git clone https://github.com/Tajouri213/incident-uptimeRobot.git
+cd incident-uptimeRobot
 ```
 
 ### 2. Set up a virtual environment:

@@ -92,7 +92,7 @@ This app can be deployed using `traefik` with the following labels:
 ```yaml
 labels:
   - "traefik.enable=true"
-  - "traefik.http.routers.incident-webhook.rule=Host(`uptime-receiver.mediacockpit.dev`)"
+  - "traefik.http.routers.incident-webhook.rule=Host(`exemple.com`)"
   - "traefik.http.routers.incident-webhook.entrypoints=websecure"
 ```
 

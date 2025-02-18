@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/author-%40Tajouri213-blue.svg)](https://github.com/Tajouri213)
+[![Author](https://img.shields.io/badge/author-%40Tajouri213-green.svg)](https://github.com/Tajouri213)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medaminetajouri@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amine-tajouri/)
 

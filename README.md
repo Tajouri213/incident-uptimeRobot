@@ -1,5 +1,7 @@
 # Incident Webhook Uptime Receiver
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/med-amine-tajouri/)
+
 ## Overview
 This is a Flask-based webhook receiver that integrates with GitLab and Microsoft Graph API to create and manage incidents based on [UptimeRobot](https://uptimerobot.com/) alerts.
 
